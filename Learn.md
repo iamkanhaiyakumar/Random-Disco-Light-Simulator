@@ -115,13 +115,7 @@ To contribute to Random Disco Light Simulator, follow these steps:
 
 Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
-## Contact
 
-If you want to contact me, you can reach out on [LinkedIn](https://www.linkedin.com/in/sanu-kumar-2a9492283).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- ## Installation 🛠️
 
@@ -216,5 +210,13 @@ Refer to the following articles:
 ## Conclusion
 Thank you for your valuable contribution and for being a part of our community! Together, we can make a difference. Happy contributing! 🚀
 ## 🙏 Support
+
+## Contact
+
+If you want to contact me, you can reach out on [LinkedIn](https://www.linkedin.com/in/sanu-kumar-2a9492283).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
